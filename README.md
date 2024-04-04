@@ -1,1 +1,1 @@
-# PtIV_ReductionPotential
+# Pt<sup>IV</sup> ReductionPotential
