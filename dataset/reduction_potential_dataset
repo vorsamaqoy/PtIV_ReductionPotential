@@ -1,3 +1,8 @@
+This data set contains experimental reduction potential values of Pt(IV) complexes collected from the literature.
+The potentials are expressed in V and refer to a specific electrode for each article.
+For conversion of the values to the Standard Hydrogen Electrode (SHE), please consult the methods sections of the referenced articles: https://doi.org/10.1021/acs.jcim.4c00315.
+If used, please cite: J. Chem. Inf. Model. 2024, 64, 9, 3733-3743.
+
 SMILES,N_in_original_paper,original_E,electrode_type,reference
 [Pt](Cl)(Cl)([NH3])([NH3])(O)OC(=O)OCCCCCC,1a,-0.743,NHE,https://doi.org/10.1039/D1DT03959H
 [Pt](Cl)(Cl)([NH3])([NH3])(O)OC(=O)CCCCCC,1b,-0.784,NHE,https://doi.org/10.1039/D1DT03959H
@@ -141,8 +146,3 @@ SMILES,N_in_original_paper,original_E,electrode_type,reference
 [Pt]([NH3])([NH3])(OC(=O)C)(OC(=O)C)(O)O,X,-1.089,Ag,https://doi.org/10.1039/D0DT01622E
 [Pt]([NH3])(OC(=O)C)(OC(=O)C)(OC(=O)C)(OC(=O)C)N1[CH]C=CC=C1,XV,-0.814,Ag,https://doi.org/10.1039/D0DT01622E
 [Pt]([NH3])(O)(OC(=O)C)(OC(=O)C)(OC(=O)C)N1[CH]C=CC=C1,XIV,-1.112,Ag,https://doi.org/10.1039/D0DT01622E
-
-This data set contains experimental reduction potential values of Pt(IV) complexes collected from the literature.
-The potentials are expressed in V and refer to a specific electrode for each article.
-For conversion of the values to the Standard Hydrogen Electrode (SHE), please consult the methods sections of the referenced articles: https://doi.org/10.1021/acs.jcim.4c00315.
-If used, please cite: J. Chem. Inf. Model. 2024, 64, 9, 3733-3743.
