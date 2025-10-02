@@ -195,9 +195,11 @@ Computational Chemist
 - PROMOCS Laboratory, University of Calabria, Italy
 - Coimbra Chemistry Centre, University of Coimbra, Portugal
 
-## 📄 License
+## 📫 Connect
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+[![GitHub](https://img.shields.io/badge/GitHub-vorsamaqoy-black?logo=github)](https://github.com/vorsamaqoy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/vincenzo-vigna-931a202a)
+[![Email](https://img.shields.io/badge/Email-Contact-red?logo=gmail)](mailto:vin.cenzo96@hotmail.it)
 
 ---
 
