@@ -1,10 +1,4 @@
-# Machine Learning-Based Prediction of Reduction Potentials for Pt<sup>IV</sup> Complexes
-
-<p align="center">
-  <img src="https://github.com/vorsamaqoy/PtIV_ReductionPotential/blob/main/images_medium_ci4c00315_0014.gif?raw=true" alt="Testo alternativo">
-</p>
-
-# Machine Learning for Platinum(IV) Complex Reduction Potential Prediction
+# Machine Learning for Platinum<sup>(IV)</sup> Complex Reduction Potential Prediction
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/downloads/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-1.1.2-orange.svg)](https://scikit-learn.org/)
